@@ -1,11 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Joel Wong</a> <img
+<h1 align="center">Hi there, I'm <a href="https://joellab.com" target="_blank">Joel Wong</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
 
-<a href="https://joellab.com" alt="blackcater's blog" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
-</a>
 <a href="mailto:joel.bradley.w@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
@@ -16,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm Joel, a student studying at the University of Birmingham 🇬🇧.
+Hi, I'm Joel, major in Artificial Intelligence, currently studying at the University of Birmingham 🇬🇧.
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
@@ -36,11 +33,11 @@ Hi, I'm Joel, a student studying at the University of Birmingham 🇬🇧.
 
 ## ⛳️ Project Release
 
-- <a href='https://github.com/Joel-Bradley/ImageNoiseReduction' target='_blank'>ImageNoiseReduction</a> - 2021-01-10
-- <a href='https://github.com/Joel-Bradley/ScientiaCrawlerm' target='_blank'>ScientiaCrawlerm</a> - 2020-12-29
-- <a href='https://github.com/Joel-Bradley/FaceRecognitionAPI' target='_blank'>FaceRecognitionAPI</a> - 2020-07-14
-- <a href='https://github.com/Joel-Bradley/CodeSync-Frontend' target='_blank'>CodeSync-Frontend</a> - 2020-05-22
-- <a href='https://github.com/Joel-Bradley/Bamboo-CloudDebate' target='_blank'>Bamboo-CloudDebate</a> - 2020-04-29
+- <a href='https://github.com/Joel-Bradley/ImageNoiseReduction' target='_blank'>ImageNoiseReduction@1.0.2</a> - 2021-01-10
+- <a href='https://github.com/Joel-Bradley/ScientiaCrawlerm' target='_blank'>ScientiaCrawlerm@1.0.0</a> - 2020-12-29
+- <a href='https://github.com/Joel-Bradley/FaceRecognitionAPI' target='_blank'>FaceRecognitionAPI@1.0.0</a> - 2020-07-14
+- <a href='https://github.com/Joel-Bradley/CodeSync-Frontend' target='_blank'>CodeSync-Frontend@1.0.0</a> - 2020-05-22
+- <a href='https://github.com/Joel-Bradley/Bamboo-CloudDebate' target='_blank'>Bamboo-CloudDebat@2.1.0e</a> - 2020-04-29
 
 <!-- github_plugin_end -->
 
@@ -50,7 +47,7 @@ Hi, I'm Joel, a student studying at the University of Birmingham 🇬🇧.
 
 ```text
 React       8 hrs 51 mins  ███████▊░░░░░░░░░░░░░  37.1%
-Java.       6 hrs 11 mins  █████▍░░░░░░░░░░░░░░░  25.9%
+Java        6 hrs 11 mins  █████▍░░░░░░░░░░░░░░░  25.9%
 Vue.js      3 hrs 19 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
 JavaScript  2 hrs 2 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
 JSON        1 hr 40 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
@@ -58,18 +55,10 @@ JSON        1 hr 40 mins   █▍░░░░░░░░░░░░░░░�
 
 <!-- wakatime_plugin_end -->
 
-**Languages and Tools:**
-
-<a href="#" alt="javascript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg"></code></a>
-<a href="#" alt="typescript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg"></code></a>
-<a href="#" alt="golang"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg"></code></a>
-
-<!-- badge_plugin_start -->
+<!-- badge_plugin_start-->
 
 ---
 
-<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
+<!-- <a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>-->
 <a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
 <!-- badge_plugin_end -->
