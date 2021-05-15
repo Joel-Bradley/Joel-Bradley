@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Currently a BSc sophomore at UoB. Have previous and growing experiences in Python, Java, and WEB; <br>
+Currently a BSc sophomore at UoB. Have previous and growing experiences in Java, C, and WEB; <br>
 in Electrical Engineering, Material Engineering and Mathematical Modeling; and in NGO, and Policy Research. <br>
 A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. <br>
 Passionate, self-motivated, adventurous, supportive, creative, and humorous.
@@ -38,8 +38,8 @@ Passionate, self-motivated, adventurous, supportive, creative, and humorous.
 - <a href='https://github.com/Joel-Bradley/ImageNoiseReduction' target='_blank'>ImageNoiseReduction@1.0.2</a> - 2021-01-10
 - <a href='https://github.com/Joel-Bradley/ScientiaCrawlerm' target='_blank'>ScientiaCrawlerm@1.0.0</a> - 2020-12-29
 - <a href='https://github.com/Joel-Bradley/FaceRecognitionAPI' target='_blank'>FaceRecognitionAPI@1.0.0</a> - 2020-07-14
-- <a href='https://github.com/Joel-Bradley/CodeSync-Frontend' target='_blank'>CodeSync-Frontend@1.0.0</a> - 2020-05-22
-- <a href='https://github.com/Joel-Bradley/Bamboo-CloudDebate' target='_blank'>Bamboo-CloudDebat@2.1.0e</a> - 2020-04-29
+- <a href='https://github.com/Joel-Bradley/CodeSync-Frontend' target='_blank'>CodeSync@1.0.0</a> - 2020-05-22
+- <a href='https://github.com/Joel-Bradley/Bamboo-CloudDebate' target='_blank'>BambooCloudDebate@2.1.0</a> - 2020-04-29
 
 <!-- github_plugin_end -->
 
