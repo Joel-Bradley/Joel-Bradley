@@ -13,7 +13,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm Joel, major in Artificial Intelligence, currently studying at the University of Birmingham 🇬🇧.
+Currently a BSc sophomore at UoB. Personal Skill Award (PSA) candidate. Have previous and growing experiences in Python, Java, and WEB; <br>
+in Electrical Engineering, Material Engineering and Mathematical Modeling; and in NGO, and Policy Research. <br>
+A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
