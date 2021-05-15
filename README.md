@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Currently a BSc sophomore at UoB. Have previous and growing experiences in Java, C, and WEB; <br>
+Currently a BSc sophomore at Uni of Birmingham. Have previous and growing experiences in Java, C, and WEB; <br>
 in Electrical Engineering, Material Engineering and Mathematical Modeling; and in NGO, and Policy Research. <br>
 A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. <br>
 Passionate, self-motivated, adventurous, supportive, creative, and humorous.
