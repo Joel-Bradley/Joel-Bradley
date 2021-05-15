@@ -13,9 +13,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Currently a BSc sophomore at UoB. Personal Skill Award (PSA) candidate. Have previous and growing experiences in Python, Java, and WEB; <br>
+Currently a BSc sophomore at UoB. Have previous and growing experiences in Python, Java, and WEB; <br>
 in Electrical Engineering, Material Engineering and Mathematical Modeling; and in NGO, and Policy Research. <br>
-A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.
+A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. <br>
+Passionate, self-motivated, adventurous, supportive, creative, and humorous.
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
@@ -48,11 +49,11 @@ A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Pas
 ## 🌗 Weekly Development Breakdown
 
 ```text
-React       8 hrs 51 mins  ███████▊░░░░░░░░░░░░░  37.1%
-Java        6 hrs 11 mins  █████▍░░░░░░░░░░░░░░░  25.9%
-Vue.js      3 hrs 19 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
-JavaScript  2 hrs 2 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
-JSON        1 hr 40 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+React       8 hrs 19 mins  ███████▊░░░░░░░░░░░░░  37.1%
+Java        5 hrs 42 mins  █████▍░░░░░░░░░░░░░░░  25.9%
+Vue.js      4 hrs 13 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
+JavaScript  3 hrs 9 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
+JSON        2 hr 55 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
 ```
 
 <!-- wakatime_plugin_end -->
@@ -61,6 +62,6 @@ JSON        1 hr 40 mins   █▍░░░░░░░░░░░░░░░�
 
 ---
 
-<!-- <a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>-->
+<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>
 <a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 <!-- badge_plugin_end -->
