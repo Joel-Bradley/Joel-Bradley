@@ -17,7 +17,6 @@ in Electrical Engineering, Material Engineering and Mathematical Modeling; and i
 A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. <br>
 Passionate, self-motivated, adventurous, supportive, creative, and humorous.
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ## ✏️ Recent Blog
 
