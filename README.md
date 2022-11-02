@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://joellab.com" target="_blank">Joel Wong</a> <img
+<h1 align="center">Hi there, I'm <a href="https://joellab.com" target="_blank">Joel(Jiawei) Wang</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
@@ -10,10 +10,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Currently a BSc sophomore at Uni of Birmingham. Have previous and growing experiences in Java, C, and WEB; <br>
-in Electrical Engineering, Material Engineering and Mathematical Modeling; and in NGO, and Policy Research. <br>
-A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. <br>
-Passionate, self-motivated, adventurous, supportive, creative, and humorous.
+Currently a junior at the University of Birmingham. Have previous and growing experiences in Java, C++ and Vue; <br>
+in Artificial Intelligence, Cyber Security and Mathematical Modeling; and in NGO, and Policy Research. <br>
+A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.
 
 
 ## ✏️ Recent Blog
