@@ -17,7 +17,7 @@
 
 <br>
 
-<h4 align="center">Currently a junior at the University of Birmingham. Have previous and growing experiences in Java, C++ and Vue;<br>in Artificial Intelligence, Cyber Security and Mathematical Modeling; and in NGO, and Policy Research.<br>A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.</h4>
+<h4 style="line-height:1.5em;" align="center">Currently a junior at the University of Birmingham. Have previous and growing experiences in Java, C++ and Vue;<br>in Artificial Intelligence, Cyber Security and Mathematical Modeling; and in NGO, and Policy Research.<br>A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.</h4>
 
 <br>
 
@@ -34,6 +34,5 @@
 
 <div align="center">
 <a href="https://github.com/" alt="https://github.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>
-
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=000000)
+<a href="https://github.com/" alt="https://github.com/"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=000000"></a>
 </div>
