@@ -17,7 +17,7 @@
 
 <br>
 
-<h4 style="line-height:1.5em;" align="center">Currently a junior at the University of Birmingham. Have previous and growing experiences in Java, C++ and Vue;<br>in Artificial Intelligence, Cyber Security and Mathematical Modeling; and in NGO, and Policy Research.<br>A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.</h4>
+<p style="line-height:1.5em;" align="center">Currently a junior at the University of Birmingham. Have previous and growing experiences in Java, C++ and Vue;<br>in Artificial Intelligence, Cyber Security and Mathematical Modeling; and in NGO, and Policy Research.<br>A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.</p>
 
 <br>
 
