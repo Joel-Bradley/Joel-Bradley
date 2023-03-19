@@ -17,7 +17,7 @@
 
 <br>
 
-<p style="line-height:1.5em;" align="center">Currently a student at the University of Chicago. Have previous and growing experiences in Java, C++ and Vue;<br>in Artificial Intelligence, Cyber Security and Mathematical Modeling; and in NGO, and Policy Research.<br>A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.</p>
+<p style="line-height:1.5em;" align="center">Student at the University of Chicago. Have previous and growing experiences in Java, C++ and Vue;<br>in Artificial Intelligence, Cyber Security and Mathematical Modeling; and in NGO, and Policy Research.<br>A competent leader, LGBTQ+ activist, fast learner, and imaginative engineer. Passionate, self-motivated, adventurous, supportive, creative, and humorous.</p>
 
 <br>
 
