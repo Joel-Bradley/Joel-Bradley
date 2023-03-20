@@ -19,7 +19,7 @@
 
 <br>
 
-<p style="line-height:1.5em;" align="center">Currently pursuing an MSCS degree at the University of Chicago.<br> I specialize in Java, C++, and Python, honing my skills in AI, Cyber Security, and Mathematical Modeling.<br> With a multifaceted background in NGO and Policy Research, I combine effective leadership and LGBTQ+ advocacy to drive positive change. <br>As a quick-witted, adaptable engineer, my passion, ingenuity, and teamwork abilities are complemented by a touch of humour.</p>
+<p style="line-height:1.5em;" align="center">Currently pursuing an MSCS degree at the University of Chicago.<br> I specialize in Java, C++, and Python, honing my skills in AI, Cyber Security, and Mathematical Modeling.<br> With a multifaceted background in NGO and Policy Research, <br>I combine effective leadership and LGBTQ+ advocacy to drive positive change. <br>As a quick-witted, adaptable engineer, my passion, ingenuity, and teamwork abilities are complemented by a touch of humour.</p>
 
 <br>
 
