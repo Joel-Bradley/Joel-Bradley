@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm <a href="https://www.joellab.com">Joel (Jiawei) Wang</a> 👋</h1>
-
+<br>
 <div align="center">
   <a href="mailto:joel.bradley.w@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
@@ -22,7 +22,7 @@
 <div align="center">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/" alt="https://github.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>
   <a href="https://github.com/" alt="https://github.com/"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=000000"></a>
