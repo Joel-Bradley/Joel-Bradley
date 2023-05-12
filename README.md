@@ -24,7 +24,7 @@
 - <span style="display: block; margin-bottom: 12px;">👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.  </span><br>
 - <span style="display: block; margin-bottom: 12px;">💡 RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a guitar enthusiast. 🎸  </span><br>
 
-<h3 align="left">Statistics:</h3>
+<h3 align="left">Badges</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jwjoel&hide_border=false" alt="jwjoel" /></p>
 
 <br></br>
