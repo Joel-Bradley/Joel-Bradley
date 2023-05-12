@@ -24,7 +24,7 @@
 <span style="display: block; margin-bottom: 12px;">👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.  </span><br>
 <span style="display: block; margin-bottom: 12px;">💡 RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a guitar enthusiast. 🎸  </span><br>
 
-<div style="line-height: 2;">
+<div style="line-height: 5;">
 🎓 Currently pursuing a Master of Science degree in Computer Science at **University of California, San Diego**.<br>
 🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.<br>
 🌏 Have had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.<br>
