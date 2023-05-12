@@ -41,6 +41,8 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jwjoel&" alt="ssss" /></p>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jwjoel?compact=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="left">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
