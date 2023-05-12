@@ -36,7 +36,8 @@
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jwjoel&" alt="ssss" /></p>
 
-<br>
+<br></br>
+<br></br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jwjoel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="jwjoel" /></a></p><br><br>
