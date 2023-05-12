@@ -43,7 +43,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jwjoel&" alt="ssss" /></p>
 
-
 <div align="left">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -51,5 +50,5 @@
 
 <div align="left">
   <a href="https://github.com/" alt="https://github.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>
-  <a href="https://github.com/" alt="https://github.com/"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=000000"></a>
+  <a href="https://github.com/" alt="https://github.com/"><img src="https://komarev.com/ghpvc/?username=jwjoel&style=for-the-badge&color=000000"></a>
 </div>
