@@ -15,6 +15,7 @@
   </a>
 </div>
 
+
 🎓 Currently pursuing a Master of Science degree in Computer Science at UCSD.
 
 🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.
