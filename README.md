@@ -1,4 +1,5 @@
 <h1 align="left">Hello! I'm <a href="https://www.joellab.com">Joel (Jiawei) Wang</a> 👋</h1>
+<h3 align="center">Currently pursuing a Master of Science degree in Computer Science at University of California, San Diego.</h3>
 <br>
 <div align="left">
   <a href="mailto:joel.bradley.w@gmail.com" target="_blank">
@@ -16,19 +17,24 @@
 </div>
 <br>
 
-🎓 Currently pursuing a Master of Science degree in Computer Science at **University of California, San Diego**.
 
-🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jwjoel&label=Profile%20views&color=0e75b6&style=flat" alt="ssss" /> </p>
 
-🌏 Have had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwjoel" alt="ssss" /></a> </p>
 
-💻 Pen technical articles &#x1F4DD; and participate in hackathons, such as **Imagine Cup 2021: [EMAE Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957)**.
+- 🎓 Currently pursuing a Master of Science degree in Computer Science at **University of California, San Diego**.
 
-💼 Merging NGO experience with LGBTQ+ advocacy to create meaningful change.
+- 🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.
 
-👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.
+- 🌏 Have had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.
 
-💡 RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a guitar enthusiast. 🎸
+- 💻 Pen technical articles &#x1F4DD; and participate in hackathons, such as **Imagine Cup 2021: [EMAE Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957)**.
+
+- 💼 Merging NGO experience with LGBTQ+ advocacy to create meaningful change.
+
+- 👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.
+
+- 💡 RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a guitar enthusiast. 🎸
 
 
 <div align="left">
