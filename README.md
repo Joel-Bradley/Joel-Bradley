@@ -1,5 +1,4 @@
 <h1 align="left">Hello! I'm <a href="https://www.joellab.com">Joel (Jiawei) Wang</a> 👋</h1>
-<h3 align="left">Currently pursuing a Master of Science degree in Computer Science at University of California, San Diego.</h3>
 <br>
 <div align="left">
   <a href="mailto:joel.bradley.w@gmail.com" target="_blank">
