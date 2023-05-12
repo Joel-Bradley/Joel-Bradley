@@ -33,3 +33,5 @@
   <a href="https://github.com/" alt="https://github.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>
   <a href="https://github.com/" alt="https://github.com/"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=000000"></a>
 </div>
+
+  💻 Pen technical articles &#x1F4DD; and participate in hackathons, such as Imagine Cup 2021: [EMAE Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957).
