@@ -15,7 +15,7 @@
   </a>
 </div>
 <br>
-<p style="line-height:1.5em;" align="center">🎓 Currently pursuing a Master of Science degree in Computer Science at UCSD.<br>🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.<br>💼 Merging NGO experience with LGBTQ+ advocacy to create meaningful change.<br>👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.</p>
+<p style="line-height:1.5em;" align="left">🎓 Currently pursuing a Master of Science degree in Computer Science at UCSD.<br>🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.<br>💼 Merging NGO experience with LGBTQ+ advocacy to create meaningful change.<br>👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.</p>
 <div align="left">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
