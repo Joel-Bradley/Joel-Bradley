@@ -26,7 +26,7 @@
   <a href="https://github.com/" alt="https://github.com/"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=000000"></a>
 </div>
 
-<br>
+
 🎓 Currently pursuing a Master of Science degree in Computer Science at UCSD.
 🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.
 🌏 Have had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.
@@ -34,4 +34,4 @@
 💼 Merging NGO experience with LGBTQ+ advocacy to create meaningful change.
 👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.
 💡 Currently, RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a devoted guitar enthusiast. 🎸
-<br>
+
