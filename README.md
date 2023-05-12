@@ -55,6 +55,6 @@
 
 <style>
   .custom-spacing {
-    line-height: 1.7;
+    line-height: 2.7;
   }
 </style>
