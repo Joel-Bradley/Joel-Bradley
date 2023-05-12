@@ -47,6 +47,8 @@
 
 <br>
 
+---
+
 <div align="left">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
