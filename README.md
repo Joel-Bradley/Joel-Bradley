@@ -28,7 +28,7 @@
 
 👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.
 
-💡 Currently, RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a devoted guitar enthusiast. 🎸
+💡 Currently, RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a guitar enthusiast. 🎸
 
 
 <div align="left">
