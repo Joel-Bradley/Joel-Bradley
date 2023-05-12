@@ -51,12 +51,7 @@
 </div>
 <br>
 
-
-
 <div align="left">
   <a href="https://github.com/" alt="https://github.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=JOEL&color=000000"></a>
   <a href="https://github.com/" alt="https://github.com/"><img src="https://komarev.com/ghpvc/?username=jwjoel&style=for-the-badge&color=000000"></a>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwjoel&show_icons=true&locale=en&layout=compact" alt="ssss" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwjoel&show_icons=true&locale=en" alt="ssss" /></p>
-<br>
