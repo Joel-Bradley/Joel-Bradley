@@ -20,7 +20,7 @@
   <br>💼 Merging NGO experience with LGBTQ+ advocacy to create meaningful change.
   <br>👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.
 </p>
-<br></br>
+<br>
 I’ve had the pleasure of working at @Alibaba, @Hisense, and @SCO as Backend Engineer. 🌏
 Sometimes, I pen technical articles 📝 and participate in hackathons, such as Imagine Cup 2021: Green Vault. 💻
 Currently, RL and NLP have captured my fascination. 💡 Other than that, I’m a passionate skateboarder 🛹 and a devoted guitar enthusiast. 🎸
