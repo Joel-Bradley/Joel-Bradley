@@ -41,8 +41,8 @@
 <br></br>
 <br></br>
 
-<h3 align="left">Contributions:</h3>
 <div align="left">
+  <h3 align="left">Contributions:</h3>
   <img src="./assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 <br>
