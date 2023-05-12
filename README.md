@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! I'm <a href="https://www.joellab.com">Joel (Jiawei) Wang</a> 👋</h1>
+<h1 align="center">Hello! I'm <a href="https://www.joellab.com">Joel (Jiawei) Wang</a> 👋</h1>
 <br>
 <div align="center">
   <a href="mailto:joel.bradley.w@gmail.com" target="_blank">
