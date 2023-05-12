@@ -18,7 +18,7 @@
 <p style="line-height:1.5em;" align="left">🎓 Currently pursuing a Master of Science degree in Computer Science at UCSD.
   <br>🔧 Expertise in Java, C++, and Python, focusing on AI, Cyber Security, and Mathematical Modeling.
   <br>🌏 Have had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.
-  <br>💻 Pen technical articles &#x1F4DD; and participate in hackathons, such as Imagine Cup 2021: [EMAE Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957).
+  💻 Pen technical articles &#x1F4DD; and participate in hackathons, such as Imagine Cup 2021: [EMAE Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957).
   <br>💼 Merging NGO experience with LGBTQ+ advocacy to create meaningful change.
   <br>👨‍💻 Resourceful and adaptable engineer, blending passion, creativity, and collaboration with a dash of humor.
   <br>💡 Currently, RL and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a devoted guitar enthusiast. 🎸
