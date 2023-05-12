@@ -17,9 +17,6 @@
 </div>
 <br>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jwjoel&label=Profile%20views&color=0e75b6&style=flat" alt="ssss" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwjoel" alt="ssss" /></a> </p>
 
 - 🎓 Currently pursuing a Master of Science degree in Computer Science at **University of California, San Diego**.
