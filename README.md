@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/jwjoel.0201/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-  <a href="https://www.discord.com/users/Joel0528" target="_blank">
+  <a href="https://www.discord.com/users/jwjoel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord logo" />
   </a>
 </div>
