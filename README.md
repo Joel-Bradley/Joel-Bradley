@@ -16,7 +16,7 @@
 </div>
 <br>
 
-- <span style="">🎓 Research Assistant at Cognitive Robotics Laboratory - **University of California, San Diego**.  </span><br>
+- <span style="">🎓 GSR at Cognitive Robotics Laboratory - **University of California, San Diego**.  </span><br>
 - <span style="display: block; margin-bottom: 12px;">🔧 Expertise in Java, C++, and Python, focusing on Robotics, LLM, Cyber Security, and Mathematical Modeling.  </span><br>
 - <span style="display: block; margin-bottom: 12px;">🌏 Had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.  </span><br>
 - <span style="display: block; margin-bottom: 12px;">💻 Pen technical articles &#x1F4DD; and participate in hackathons, such as **Imagine Cup 2021: [EMAE Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957)**.  </span><br>
