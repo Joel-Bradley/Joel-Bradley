@@ -16,11 +16,10 @@
 </div>
 <br>
 
-- <span style="">🎓 GSR at Cognitive Robotics Laboratory - **University of California, San Diego**.  </span><br>
-- <span style="display: block; margin-bottom: 12px;">🔧 Expertise in Java, C++, and Python, focusing on Robotics, LLM, Cyber Security, and Mathematical Modeling.  </span><br>
-- <span style="display: block; margin-bottom: 12px;">🌏 Had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.  </span><br>
-- <span style="display: block; margin-bottom: 12px;">💻 Pen technical articles &#x1F4DD; and participate in hackathons, such as **Imagine Cup 2021: [EAME Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957)**.  </span><br>
-- <span style="display: block; margin-bottom: 12px;">💡 Robotics and NLP have captured my fascination. Other than that, I’m a passionate skateboarder 🛹 and a guitar enthusiast. 🎸  </span><br>
+- <span style="">GSR at Cognitive Robotics Laboratory - **University of California, San Diego**.  </span><br>
+- <span style="display: block; margin-bottom: 12px;">Expertise in Java, C++, and Python, focusing on Robotics, LLM, Cyber Security, and Mathematical Modeling.  </span><br>
+- <span style="display: block; margin-bottom: 12px;">Had the pleasure of working at [@Alibaba](https://www.alibabagroup.com/en-US/), [@Hisense](https://hisense.com/), and [@SCO](http://eng.sectsco.org/) as Backend Engineer.  </span><br>
+- <span style="display: block; margin-bottom: 12px;">Pen technical articles &#x1F4DD; and participate in hackathons - **Imagine Cup 2021: [EAME Runner Up - Green Vault](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2022-imagine-cup-epic-challenge-winners/ba-p/3029957)**.  </span><br>
 
 <h3 align="left">Badges</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jwjoel&hide_border=false" alt="jwjoel" /></p>
